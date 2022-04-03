@@ -8,7 +8,6 @@ import {
   Heading,
   Nav,
   Paragraph,
-  JSX,
 } from "grommet";
 
 import { Github, Slack } from "grommet-icons";
