@@ -75,7 +75,9 @@ export default function Home() {
           <Anchor href="https://nextjs.org/learn">
             <Heading level={3}>Learn &rarr;</Heading>
           </Anchor>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <Paragraph>
+            Learn about Next.js in an interactive course with quizzes!
+          </Paragraph>
 
           <Anchor href="https://github.com/vercel/next.js/tree/master/examples">
             <Heading level={3}>Examples &rarr;</Heading>
