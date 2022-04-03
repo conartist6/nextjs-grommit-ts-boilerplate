@@ -61,35 +61,35 @@ export default function Home() {
         </Paragraph>
 
         <Paragraph fill>
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>pages/index.tsx</code>
         </Paragraph>
 
         <Box>
           <Anchor href="https://nextjs.org/docs">
             <Heading level={3}>Documentation &rarr;</Heading>
           </Anchor>
-          <Paragraph>
+          <Paragraph fill>
             Find in-depth information about Next.js features and API.
           </Paragraph>
 
           <Anchor href="https://nextjs.org/learn">
             <Heading level={3}>Learn &rarr;</Heading>
           </Anchor>
-          <Paragraph>
+          <Paragraph fill>
             Learn about Next.js in an interactive course with quizzes!
           </Paragraph>
 
           <Anchor href="https://github.com/vercel/next.js/tree/master/examples">
             <Heading level={3}>Examples &rarr;</Heading>
           </Anchor>
-          <Paragraph>
+          <Paragraph fill>
             Discover and deploy boilerplate example Next.js projects.
           </Paragraph>
 
           <Anchor href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app">
             <Heading level={3}>Deploy &rarr;</Heading>
           </Anchor>
-          <Paragraph>
+          <Paragraph fill>
             Instantly deploy your Next.js site to a public URL with Vercel.
           </Paragraph>
         </Box>
